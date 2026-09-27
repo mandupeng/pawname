@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@pmd/ui/css";
+
+:root {
+  color-scheme: dark;
+}

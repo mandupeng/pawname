@@ -1,0 +1,19 @@
+{
+  "title": "🐶 강아지 이름 추천기",
+  "metaDescription": "크기, 성별, 성격을 고르면 어울리는 강아지 이름을 재미로 추천해줘요.",
+  "size": "크기",
+  "size.small": "소형견",
+  "size.medium": "중형견",
+  "size.large": "대형견",
+  "gender": "성별",
+  "gender.male": "남아",
+  "gender.female": "여아",
+  "gender.either": "상관없음",
+  "personality": "성격",
+  "personality.energetic": "활발함",
+  "personality.calm": "차분함",
+  "personality.playful": "장난꾸러기",
+  "personality.loyal": "애교/충직",
+  "submit": "이름 추천받기",
+  "retry": "다시 고르기"
+}

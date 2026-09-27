@@ -1,0 +1,19 @@
+{
+  "title": "🐶 犬の名前おすすめメーカー",
+  "metaDescription": "大きさ、性別、性格を選ぶと、ぴったりの犬の名前を提案します。",
+  "size": "サイズ",
+  "size.small": "小型犬",
+  "size.medium": "中型犬",
+  "size.large": "大型犬",
+  "gender": "性別",
+  "gender.male": "オス",
+  "gender.female": "メス",
+  "gender.either": "どちらでも",
+  "personality": "性格",
+  "personality.energetic": "元気",
+  "personality.calm": "穏やか",
+  "personality.playful": "やんちゃ",
+  "personality.loyal": "忠実・甘えん坊",
+  "submit": "名前を提案してもらう",
+  "retry": "もう一度"
+}

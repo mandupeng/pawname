@@ -1,0 +1,19 @@
+{
+  "title": "🐶 Recomendador de nomes de cães",
+  "metaDescription": "Escolha o porte, o sexo e a personalidade para receber uma sugestão de nome para o seu cão.",
+  "size": "Porte",
+  "size.small": "Pequeno",
+  "size.medium": "Médio",
+  "size.large": "Grande",
+  "gender": "Sexo",
+  "gender.male": "Macho",
+  "gender.female": "Fêmea",
+  "gender.either": "Tanto faz",
+  "personality": "Personalidade",
+  "personality.energetic": "Enérgico",
+  "personality.calm": "Calmo",
+  "personality.playful": "Brincalhão",
+  "personality.loyal": "Leal/Carinhoso",
+  "submit": "Recomendar um nome",
+  "retry": "Tentar novamente"
+}

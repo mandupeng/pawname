@@ -1,0 +1,19 @@
+{
+  "title": "🐶 Dog Name Recommender",
+  "metaDescription": "Pick a size, gender, and personality to get a fun dog name suggestion.",
+  "size": "Size",
+  "size.small": "Small",
+  "size.medium": "Medium",
+  "size.large": "Large",
+  "gender": "Gender",
+  "gender.male": "Male",
+  "gender.female": "Female",
+  "gender.either": "Either",
+  "personality": "Personality",
+  "personality.energetic": "Energetic",
+  "personality.calm": "Calm",
+  "personality.playful": "Playful",
+  "personality.loyal": "Loyal/Affectionate",
+  "submit": "Recommend a name",
+  "retry": "Try again"
+}

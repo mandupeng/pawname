@@ -1,0 +1,19 @@
+{
+  "title": "🐶 狗狗起名推荐",
+  "metaDescription": "选择体型、性别和性格,获取有趣的狗狗名字推荐。",
+  "size": "体型",
+  "size.small": "小型犬",
+  "size.medium": "中型犬",
+  "size.large": "大型犬",
+  "gender": "性别",
+  "gender.male": "公",
+  "gender.female": "母",
+  "gender.either": "都可以",
+  "personality": "性格",
+  "personality.energetic": "活泼",
+  "personality.calm": "温顺",
+  "personality.playful": "调皮",
+  "personality.loyal": "忠诚/粘人",
+  "submit": "推荐名字",
+  "retry": "重新选择"
+}

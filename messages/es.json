@@ -1,0 +1,19 @@
+{
+  "title": "🐶 Recomendador de nombres para perros",
+  "metaDescription": "Elige tamaño, sexo y personalidad para recibir una sugerencia de nombre para tu perro.",
+  "size": "Tamaño",
+  "size.small": "Pequeño",
+  "size.medium": "Mediano",
+  "size.large": "Grande",
+  "gender": "Sexo",
+  "gender.male": "Macho",
+  "gender.female": "Hembra",
+  "gender.either": "Cualquiera",
+  "personality": "Personalidad",
+  "personality.energetic": "Enérgico",
+  "personality.calm": "Tranquilo",
+  "personality.playful": "Juguetón",
+  "personality.loyal": "Leal/Cariñoso",
+  "submit": "Recomendar un nombre",
+  "retry": "Intentar de nuevo"
+}
